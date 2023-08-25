@@ -15,7 +15,7 @@ I am studying computer engineering at Chiang Mai University, I like coding, watc
 
 [![Playlist Music](https://img.shields.io/badge/Playlist%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9?si=r0bNjBShRWq4JiJtlk1v7A)
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/314noqhywigh4kqh6czhelpibbxi?si=c4706047411d49bb)
+[![Spotify](https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6?si=6827ac455b654da0)](https://open.spotify.com/user/314noqhywigh4kqh6czhelpibbxi?si=c4706047411d49bb)
 
 ## 🔧 Technologies
 
