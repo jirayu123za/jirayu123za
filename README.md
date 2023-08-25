@@ -1,10 +1,8 @@
 # Hi, I'm Jirayu Jitprem (💻💖☕)
 
-[![@warengonzaga's Holopin board](https://holopin.io/api/user/board?user=warengonzaga)](https://holopin.io/@warengonzaga)
+[![Cover board](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F430656783122943524%2F&psig=AOvVaw0hmx5a7Y36MjYI9h1VEudW&ust=1693032343215000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCT8oub94ADFQAAAAAdAAAAABAU)]
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzaga) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+studying+computer+engineering;I+like+coding...+watching+series+and+playing+games..;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+studying+computer+engineering;I+like+coding...+watching+series;And+playing+games..;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 I am studying computer engineering at Chiang Mai University, I like coding, watching series, and playing games.. 💻💖☕
 
