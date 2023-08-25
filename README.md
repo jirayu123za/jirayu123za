@@ -1,6 +1,6 @@
 # Hi, I'm Jirayu Jitprem (💻💖☕)
 
-![gif_cover](https://github.com/jirayu123za/jirayu123za/assets/76035470/9717ba14-2ff8-4112-9b8b-0ddda3d40c4a)ved=0CBAQjRxqFwoTCNCT8oub94ADFQAAAAAdAAAAABAU)]
+![gif_cover](https://github.com/jirayu123za/jirayu123za/assets/76035470/9717ba14-2ff8-4112-9b8b-0ddda3d40c4a)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+studying+computer+engineering;I+like+coding...+watching+series;And+playing+games..;Nice+to+meet+you...)](https://git.io/typing-svg)
 
