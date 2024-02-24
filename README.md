@@ -8,8 +8,6 @@ I am studying computer engineering at Chiang Mai University, I like coding, watc
 
 - 💝 Nick name: FourJi
 - 💼 Want to be a full-stack developer.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee] <!--(https://buymeacoff.ee/warengonzaga)--> or [send me some love] <!--(https://github.com/sponsors/warengonzaga)-->.
-- 🎯 Wasting my time to save other people's time.
 
 ## 🎧 Spotify Playing
 
