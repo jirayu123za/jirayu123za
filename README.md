@@ -17,14 +17,14 @@ I am studying computer engineering at Chiang Mai University, I like coding, watc
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,react,mongodb,mysql,py,docker,git,figma,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,go,nodejs,react,mongodb,mysql,py,docker,git,figma,vscode&theme=light)
 
 ## 🌏 Co-Founded Tech Communities
 
 <!-- markdownlint-disable MD033 -->
 
 <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+    <summary>&#128240 <b>How to deploy on git</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 
